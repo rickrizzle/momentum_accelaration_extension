@@ -1,4 +1,4 @@
-#Copycat Project of Momemtum Chrome Browser Extension
+#Copycat Project of Momentum Chrome Browser Extension
 
 This is my first project made with AngularJs.
 
@@ -29,5 +29,7 @@ I want to give thanks to Eric Terry for writing up the initial tutorial I based 
 (Found here: https://ericterry.us/how-to-build-a-chrome-extension-with-angular-4/ )
 
 Also, I would like to thank Brad at Traversy Media for his non-stop awesome videos that answer a lot, and I mean a lot of my questions, and give me further ideas for my project(s).
+
+The team who made Momentum, one of my favorite extensions.
 
 Lastly, I give thanks and credit to Icomoon for the icon image used.
