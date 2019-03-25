@@ -1,27 +1,33 @@
-# Extension
+#Copycat Project of Momemtum Chrome Browser Extension
+
+This is my first project made with AngularJs.
+
+The main requirements for this project are as follows:
+
+1. Display high-quality images as the background that change each time the browser reloads.
+2. Display the current time.
+3. Display greeting appropropriate to the time of day.
+
+By the end this project will also feature:
+
+- A mini To-Do list
+- Local weather and temp
+- Ask you for your name and location to personalize the greeting and give accurate weather, temperature, and time.
+- Include rotating quotations.
+- Ask you what your goal for the day is.
+
+These are all features in the real Momemtum and I look forward to implementing them in my own version of one of my favorite apps.
+
+## Tech Used
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
-## Development server
+## Thanks and Credit
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+I want to give thanks to Eric Terry for writing up the initial tutorial I based this project on.
 
-## Code scaffolding
+(Found here: https://ericterry.us/how-to-build-a-chrome-extension-with-angular-4/ )
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Also, I would like to thank Brad at Traversy Media for his non-stop awesome videos that answer a lot, and I mean a lot of my questions, and give me further ideas for my project(s).
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Lastly, I give thanks and credit to Icomoon for the icon image used.
