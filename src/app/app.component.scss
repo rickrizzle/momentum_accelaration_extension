@@ -1,0 +1,14 @@
+#showcase {
+  background-image: url("https://source.unsplash.com/1600x900/?nature,water");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3.3em;
+}
