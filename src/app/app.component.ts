@@ -8,7 +8,7 @@ import { observable, interval } from "rxjs";
   styleUrls: ["./app.component.scss"]
 })
 export class AppComponent {
-  name: string = "World";
+  name: string = " World";
   time: string;
   interval: any;
   greeting: string;
